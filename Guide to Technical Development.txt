@@ -1,0 +1,72 @@
+Guide to Technical Development https://www.google.com/about/careers/students/guide-to-technical-development.html
+Intro to CS Course
+[[NOTE]]: https://www.udacity.com/course/cs101
+[[NOTE]]: https://www.coursera.org/course/cs101
+Code in at least one object oriented programming language
+...Beginner Online Resources
+...[[NOTE]]: https://www.coursera.org/course/programming1
+...[[NOTE]]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
+...[[NOTE]]: https://developers.google.com/edu/python/
+...[[NOTE]]: https://www.coursera.org/course/interactivepython
+...[[NOTE]]: http://www.openbookproject.net/thinkcs/python/english2e/
+...Intermediate Online Resources
+...[[NOTE]]: https://www.udacity.com/course/cs212
+...[[NOTE]]: https://www.coursera.org/course/programming2
+...[[NOTE]]: https://www.coursera.org/course/proglang
+...[[NOTE]]: https://cs.brown.edu/courses/cs173/2012/OnLine/
+Learn other Programming Languages
+[[NOTE]]: Add to your repertoire - JavaScript, CSS & HTML; Ruby; PHP; C; Perl; shell script; Lisp and Scheme. 
+[[NOTE]]: http://www.w3schools.com/
+[[NOTE]]: http://www.codecademy.com/learn
+[[NOTE]]: https://www.udacity.com/course/cs256
+[[NOTE]]: https://www.udacity.com/course/cs255
+Test Your Code
+[[NOTE]]: Learn how to catch bugs, create tests, and break your software 
+[[NOTE]]: https://www.udacity.com/course/cs258
+[[NOTE]]: https://www.udacity.com/course/cs259
+Develop logical reasoning and knowledge of discrete math
+[[NOTE]]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+[[NOTE]]: https://www.coursera.org/course/intrologic
+[[NOTE]]: https://www.coursera.org/course/linearopt
+[[NOTE]]: https://www.coursera.org/course/pgm
+[[NOTE]]: https://www.coursera.org/course/gametheory
+Develop strong understanding of Algorithms and Data Structures
+[[NOTE]]: Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), data structures (binary search trees, red-black trees, hash tables), and Big O. 
+[[NOTE]]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
+[[NOTE]]: https://www.coursera.org/course/algs4partI
+[[NOTE]]: https://www.coursera.org/course/algs4partII
+[[NOTE]]: https://en.wikipedia.org/wiki/List_of_algorithms
+[[NOTE]]: https://en.wikipedia.org/wiki/List_of_data_structures
+[[NOTE]]: https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_5?s=books&ie=UTF8&qid=1360133842&sr=1-5&keywords=algorithms
+Develop a strong knowledge of operating systems
+[[NOTE]]: https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL3289DD0D0F0CD4A3
+Learn UX Design
+[[NOTE]]: https://www.udacity.com/course/ud849
+Learn Artificial Intelligence
+[[NOTE]]: https://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743
+[[NOTE]]: https://see.stanford.edu/see/courseinfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a
+[[NOTE]]: https://see.stanford.edu/see/courseinfo.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1
+How to build compilers
+[[NOTE]]: https://www.coursera.org/course/compilers
+Learn cryptography
+[[NOTE]]: https://www.coursera.org/course/crypto
+[[NOTE]]: https://www.udacity.com/course/cs387
+Learn parallel programming
+[[NOTE]]: https://www.coursera.org/course/hetero
+Work on project outside of the classroom
+[[NOTE]]: Create and maintain a website, build your own server, or build a robot. 
+[[NOTE]]: https://projects.apache.org/
+[[NOTE]]: https://www.google-melange.com/gsoc/homepage/google/gsoc2013
+[[NOTE]]: https://developers.google.com/
+Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug things.
+[[NOTE]]: GitHub is a great way to read other people’s code or contribute to a project.
+[[NOTE]]: https://github.com/
+[[NOTE]]: https://www.fogcreek.com/kiln/
+Practice your algorithmic knowledge and coding skills
+[[NOTE]]: Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest. 
+[[NOTE]]: https://code.google.com/codejam/
+[[NOTE]]: https://icpc.baylor.edu/
+Become a Teaching Assistant
+[[NOTE]]: Helping to teach other students will help enhance your knowledge in the subject matter. 
+Internship experience in software engineering
+[[NOTE]]: Make sure you apply for internships well in advance of the period internships take place. In the US, internships take place during the summer, May-September. Applications are usually accepted several months in advance. 
