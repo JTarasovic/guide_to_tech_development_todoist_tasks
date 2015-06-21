@@ -8,4 +8,5 @@
 * Edit the Project using the settings icon
 * Choose Import from Template
 * Profit
+
 ![](screenshot.png)
